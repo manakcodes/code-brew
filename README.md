@@ -13,7 +13,7 @@ Terminal-based app to calculate semester GPA and total CGPA.
 🧮 Wrote it when my GPA felt like a mystery.  
 ☠️ Floating point errors made it worse.
 
-[→ view repo](https://github.com/your-username/cgpa-calculator)
+[→ view repo](https://github.com/manakcodes/cgpa-calc-using-c.git)
 
 ---
 
@@ -21,7 +21,7 @@ Terminal-based app to calculate semester GPA and total CGPA.
 Classic encryption using character shifting — old-school and insecure, just like my trust issues.  
 📜 Text-based CLI app for simple encryption/decryption.
 
-[→ view repo](https://github.com/your-username/caesar-cipher)
+[→ view repo](https://github.com/manakcodes/caesar-cipher-using-c.git)
 
 ---
 
@@ -30,7 +30,7 @@ Matrix operations library (addition, multiplication, determinant, etc).
 🧱 WIP — still laying the bricks.  
 🔧 Building a basic math lib from scratch for learning & practice.
 
-[→ work in progress](https://github.com/your-username/matxlib)
+[→ work in progress](https://github.com/manakcodes/matxlib-cpp.git)
 
 ---
 
