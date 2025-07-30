@@ -26,6 +26,12 @@
 
 ---
 
+- ### 🌮 `senor-taco`
+  A clean, responsive taco shop landing page made with vanilla HTML, CSS, and JS.
+  [→ view project](https://github.com/manakcodes/senor-taco.git)
+
+---
+
 <!-- ## 🧩 want to see more?
 
 Every repo here is a piece of my learning curve.
