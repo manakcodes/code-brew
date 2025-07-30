@@ -1,43 +1,35 @@
 # ☕️ code-brew
 
-> *"experiments, side quests, and everything in between"*
+> _"experiments, side quests, and everything in between"_
 
 ---
 
-## 🛠️ things i've built to stay sane (or lose it)
+## 🛠️ Things I've Built To Stay Sane (or lose it)
 
-> we all start somewhere — here's mine.
+<!-- > we all start somewhere — here's mine. -->
 
-### 🎓 CGPA Calculator — `C`
-Terminal-based app to calculate semester GPA and total CGPA.  
-🧮 Wrote it when my GPA felt like a mystery.  
-☠️ Floating point errors made it worse.
-
-[→ view repo](https://github.com/manakcodes/cgpa-calc-using-c.git)
+- ### 🎓 `cgpa-calc-using-c`
+  A simple terminal-based CGPA or SGPA calculator written in C.
+  [→ view project](https://github.com/manakcodes/cgpa-calc-using-c.git)
 
 ---
 
-### 🔐 Caesar Cipher — `C`
-Classic encryption using character shifting — old-school and insecure, just like my trust issues.  
-📜 Text-based CLI app for simple encryption/decryption.
-
-[→ view repo](https://github.com/manakcodes/caesar-cipher-using-c.git)
+- ### 🔐 `caesar-cipher-using-c`
+  A lightweight command-line Caesar Cipher implementation in C, supporting both encryption and decryption operations.
+  [→ view project](https://github.com/manakcodes/caesar-cipher-using-c.git)
 
 ---
 
-### 🧮 matxlib — `C++` (in progress)
-Matrix operations library (addition, multiplication, determinant, etc).  
-🧱 WIP — still laying the bricks.  
-🔧 Building a basic math lib from scratch for learning & practice.
-
-[→ work in progress](https://github.com/manakcodes/matxlib-cpp.git)
+- ### 📦 `matxlib-cpp`
+  A lightweight, minimal C++ library for matrix abstractions, arithmetic, and analytical utilities.
+  [→ view project](https://github.com/manakcodes/matxlib-cpp.git)
 
 ---
 
-## 🧩 want to see more?
+<!-- ## 🧩 want to see more?
 
-Every repo here is a piece of my learning curve.  
-Check them all out in the [**Projects tab**](https://github.com/your-username?tab=repositories) or scroll through this repo’s links.
+Every repo here is a piece of my learning curve.
+Check them all out in the [**projects tab**](https://github.com/manakcodes?tab=repositories) or scroll through this repo’s links. -->
 
 ---
 
