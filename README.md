@@ -41,15 +41,21 @@
   NumPy cheatsheet in Markdown — core concepts, quick refs, and the 80/20 essentials.
   [→ view repo](https://github.com/manakcodes/numpy-notes.git)
 
+---
+
 - ### 🎓 `SEM-4`
 
   This repository contains all the lab work, practicals, coursework, assignments, books and notes and projects from my 4-th semester of Computer Science Engineering In Artificial Intelligence and Machine Learning.
   [→ view repo](https://github.com/manakcodes/SEM-4.git)
 
+---
+
 - ### 📚 `trace-the-textbook`
 
   Personal archive of coding exercises from CS textbooks.
   [→ view repo](https://github.com/manakcodes/trace-the-textbook.git)
+
+---
 
 - ### 🎓 `SEM-5`
 
